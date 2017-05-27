@@ -1,0 +1,11 @@
+userID userID_0 userID_1 userID_2 userID_3 userID_4 userID_5 userID_6 userID_7 userID_8 userID_9 userID_10 userID_11 userID_12 userID_13 userID_14 userID_15 userID_16 userID_17 userID_18 userID_19 userID_20 userID_21 age_0 age_1 age_2 age_3 age_4 age_5 age_6 gender_0 gender_1 gender_2 education_0 education_1 education_2 education_3 education_4 education_5 education_6 education_7 marriageStatus_0 marriageStatus_1 marriageStatus_2 marriageStatus_3 haveBaby_0 haveBaby_1 haveBaby_2 haveBaby_3 haveBaby_4 haveBaby_5 haveBaby_6 home_town_0 home_town_1 home_town_2 home_town_3 home_town_4 home_town_5 home_town_6 home_town_7 home_town_8 home_town_9 home_town_10 home_town_11 residence_0 residence_1 residence_2 residence_3 residence_4 residence_5 residence_6 residence_7 residence_8 residence_9 residence_10 residence_11 
+--------------------------------------------------
+ADcreative feature length is 64
+creativeID creativeID_0 creativeID_1 creativeID_2 creativeID_3 creativeID_4 creativeID_5 creativeID_6 creativeID_7 creativeID_8 creativeID_9 creativeID_10 creativeID_11 creativeID_12 adID_0 adID_1 adID_2 adID_3 adID_4 adID_5 adID_6 adID_7 adID_8 adID_9 adID_10 adID_11 camgaignID_0 camgaignID_1 camgaignID_2 camgaignID_3 camgaignID_4 camgaignID_5 camgaignID_6 camgaignID_7 camgaignID_8 camgaignID_9 advertiserID_0 advertiserID_1 advertiserID_2 advertiserID_3 advertiserID_4 advertiserID_5 advertiserID_6 appID_0 appID_1 appID_2 appID_3 appID_4 appID_5 appID_6 appID_7 appID_8 appID_9 appID_10 appID_11 appID_12 appID_13 appID_14 appID_15 appID_16 appID_17 appID_18 appPlatform_1 appPlatform_2 
+--------------------------------------------------
+position feature length is 23
+positionID positionID_0 positionID_1 positionID_2 positionID_3 positionID_4 positionID_5 positionID_6 positionID_7 positionID_8 positionID_9 positionID_10 positionID_11 positionID_12 sitesetID_0 sitesetID_1 sitesetID_2 positionType_0 positionType_1 positionType_2 positionType_3 positionType_4 positionType_5 
+--------------------------------------------------
+APPcategories feature length is 10
+appID appCategory_0 appCategory_1 appCategory_2 appCategory_3 appCategory_4 appCategory_5 appCategory_6 appCategory_7 appCategory_8 
+--------------------------------------------------
